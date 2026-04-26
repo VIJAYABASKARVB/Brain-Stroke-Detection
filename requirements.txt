@@ -1,10 +1,9 @@
 streamlit>=1.30
 tensorflow==2.21.0
-numpy>=2.0,<2.3
+numpy>=1.26,<2.0
 pillow
 pydicom>=3.0
 pylibjpeg
 pylibjpeg-libjpeg
 pylibjpeg-openjpeg
-python-gdcm
-
+gdcm
