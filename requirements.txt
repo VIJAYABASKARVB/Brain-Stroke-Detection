@@ -1,5 +1,5 @@
 streamlit>=1.30
-tensorflow==2.21.0
+tensorflow==2.16.1
 numpy>=1.26,<2.0
 pillow
 pydicom>=3.0
